@@ -1,7 +1,8 @@
 # YelpCamp Development Process
-A full-stack Node.js project from my web dev course with RESTful routing
+A full-stack Node.js project from the famous Web Developer Bootcamp with RESTful routing.
 
-![home-page](home.png)
+Check it live here: 
+https://arcane-eyrie-91163.herokuapp.com/
 
 ## Initial Setup
 * Add Landing Page
